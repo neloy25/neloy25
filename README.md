@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am currently studying CSE in RUET<br>
+Hi! I'm currently a CSE undergrad at RUET (Rajshahi University of Engineering & Technology), and I graduated from Notre Dame College.
+
+I'm passionate about Competitive Programming, always trying to solve new problems and improve my problem-solving skills. I'm also exploring different areas of Computer Science and actively learning new technologies and tools.
+
+🔭 Currently learning: Competitive Programming, Data Structures & Algorithms
+
+💻 Interested in: Problem Solving, Software Development, System Design
+
+🌱 Always up for challenges and collaboration
+
+Let's connect and build something awesome!
 
 
 # 💻 Tech Stack:
